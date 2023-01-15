@@ -1,4 +1,4 @@
-<p><img align="left" src="https://i.postimg.cc/NMHK0krX/ic-launcher.png" > <h1>KodeshOld<br>English</h1>An app for reading the scriptures.<br>
+<p><img align="left" src="https://i.postimg.cc/NMHK0krX/ic-launcher.png" > <h1>Kodesh<br>Old<br>English</h1>An app for reading the scriptures.<br>
 
 <br><br><br></p>
 

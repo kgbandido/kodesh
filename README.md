@@ -2,6 +2,12 @@
 
 <br><br><br></p>
 
+<p>
+
+<h1>ALL TO THE GLORY OF GOD</h1>
+<br><br><br>
+</p>
+
 # Features
 
 - Verse stylings

@@ -5,6 +5,8 @@
 <p>
 
 <h1>ALL TO THE GLORY OF GOD</h1>
+AUTHORIZED KING JAMES VERSION 1611
+special thanks to inshiro for this great app as a base for me to release the true word of god to anyone who has an android
 <br><br><br>
 </p>
 

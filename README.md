@@ -1,14 +1,10 @@
-<p><img align="left" src="https://i.postimg.cc/NMHK0krX/ic-launcher.png" > <h1>Kodesh Old English </h1>An app for reading the scriptures.<br>
-
+<p><img align="left" src="https://i.postimg.cc/NMHK0krX/ic-launcher.png" > <h1>Kodesh</h1>An app for reading the scriptures.<br>
+<a href="https://play.google.com/store/apps/details?id=na.komi.kodesh">
+    <img alt="Get it on Google Play"
+        height="90"
+        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
+</a>
 <br><br><br></p>
-
-<p>
-
-<h1>ALL TO THE GLORY OF GOD</h1>
-AUTHORIZED KING JAMES VERSION 1611
-special thanks to inshiro for this great app as a base for me to release the true word of god to anyone who has an android
-<br><br><br>
-</p>
 
 # Features
 

@@ -1,10 +1,13 @@
-<p><img align="left" src="https://i.postimg.cc/NMHK0krX/ic-launcher.png" > <h1>Kodesh</h1>An app for reading the scriptures.<br>
+<p><img align="left" src="https://i.postimg.cc/NMHK0krX/ic-launcher.png" > <h1>Kodesh<br>Old English</h1>An app for reading the scriptures.<br>
 <a href="https://play.google.com/store/apps/details?id=na.komi.kodesh">
     <img alt="Get it on Google Play"
         height="90"
         src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
 </a>
-<br><br><br></p>
+<br><br><br>
+<h2>ALL TO THE GLORY OF GOD</h2>
+<br><br><br>
+</p>
 
 # Features
 
